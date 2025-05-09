@@ -2,7 +2,7 @@
 
   ### An webapp for tracking shared expenses.
 
-![splitIQ](https://github.com/user-attachments/assets/11e138c4-efcf-4a85-8586-f2993da118d8)
+![splitIQ](https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png)
 
 ###   `.env` 
 
