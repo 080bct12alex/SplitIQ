@@ -3,6 +3,7 @@
   ### An webapp for tracking shared expenses.
 
 ![splitIQ](https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png)
+<img src="https://i.ibb.co/214s3Ng1/Screenshot-2025-05-09-185044.png" alt="Screenshot-2025-05-09-185044" border="0">
 
 ###   `.env` 
 
